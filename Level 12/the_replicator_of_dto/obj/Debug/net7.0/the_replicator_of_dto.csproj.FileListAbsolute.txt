@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/bin/Debug/net7.0/the_replicator_of_dto
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/bin/Debug/net7.0/the_replicator_of_dto.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/bin/Debug/net7.0/the_replicator_of_dto.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/bin/Debug/net7.0/the_replicator_of_dto.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/bin/Debug/net7.0/the_replicator_of_dto.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/refint/the_replicator_of_dto.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/the_replicator_of_dto.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_replicator_of_dto/obj/Debug/net7.0/ref/the_replicator_of_dto.dll

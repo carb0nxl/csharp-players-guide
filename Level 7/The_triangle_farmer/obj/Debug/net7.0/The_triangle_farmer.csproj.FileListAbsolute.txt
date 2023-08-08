@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/bin/Debug/net7.0/The_triangle_farmer
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/bin/Debug/net7.0/The_triangle_farmer.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/bin/Debug/net7.0/The_triangle_farmer.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/bin/Debug/net7.0/The_triangle_farmer.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/bin/Debug/net7.0/The_triangle_farmer.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/refint/The_triangle_farmer.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/The_triangle_farmer.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_triangle_farmer/obj/Debug/net7.0/ref/The_triangle_farmer.dll

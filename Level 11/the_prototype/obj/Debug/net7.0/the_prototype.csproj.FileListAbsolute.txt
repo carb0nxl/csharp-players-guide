@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/bin/Debug/net7.0/the_prototype
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/bin/Debug/net7.0/the_prototype.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/bin/Debug/net7.0/the_prototype.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/bin/Debug/net7.0/the_prototype.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/bin/Debug/net7.0/the_prototype.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/refint/the_prototype.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/the_prototype.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 11/the_prototype/obj/Debug/net7.0/ref/the_prototype.dll

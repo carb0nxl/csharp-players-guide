@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/bin/Debug/net7.0/The_defense_of_consolas
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/bin/Debug/net7.0/The_defense_of_consolas.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/bin/Debug/net7.0/The_defense_of_consolas.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/bin/Debug/net7.0/The_defense_of_consolas.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/bin/Debug/net7.0/The_defense_of_consolas.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/refint/The_defense_of_consolas.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/The_defense_of_consolas.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 8/The_defense_of_consolas/obj/Debug/net7.0/ref/The_defense_of_consolas.dll

@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/bin/Debug/net7.0/The_dominion_of_kings
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/bin/Debug/net7.0/The_dominion_of_kings.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/bin/Debug/net7.0/The_dominion_of_kings.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/bin/Debug/net7.0/The_dominion_of_kings.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/bin/Debug/net7.0/The_dominion_of_kings.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/refint/The_dominion_of_kings.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/The_dominion_of_kings.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/The_dominion_of_kings/obj/Debug/net7.0/ref/The_dominion_of_kings.dll

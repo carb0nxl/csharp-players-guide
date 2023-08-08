@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/bin/Debug/net7.0/the_laws_of_freach
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/bin/Debug/net7.0/the_laws_of_freach.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/bin/Debug/net7.0/the_laws_of_freach.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/bin/Debug/net7.0/the_laws_of_freach.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/bin/Debug/net7.0/the_laws_of_freach.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/refint/the_laws_of_freach.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/the_laws_of_freach.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 12/the_laws_of_freach/obj/Debug/net7.0/ref/the_laws_of_freach.dll

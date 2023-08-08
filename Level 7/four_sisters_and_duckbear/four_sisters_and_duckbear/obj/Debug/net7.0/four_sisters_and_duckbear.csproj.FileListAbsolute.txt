@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/bin/Debug/net7.0/four_sisters_and_duckbear
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/bin/Debug/net7.0/four_sisters_and_duckbear.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/bin/Debug/net7.0/four_sisters_and_duckbear.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/bin/Debug/net7.0/four_sisters_and_duckbear.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/bin/Debug/net7.0/four_sisters_and_duckbear.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/refint/four_sisters_and_duckbear.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/four_sisters_and_duckbear.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 7/four_sisters_and_duckbear/four_sisters_and_duckbear/obj/Debug/net7.0/ref/four_sisters_and_duckbear.dll

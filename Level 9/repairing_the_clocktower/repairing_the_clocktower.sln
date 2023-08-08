@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repairing_the_clocktower", "repairing_the_clocktower.csproj", "{FAA8ABD5-7A0D-48C0-A1F3-595C86920876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA8ABD5-7A0D-48C0-A1F3-595C86920876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA8ABD5-7A0D-48C0-A1F3-595C86920876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA8ABD5-7A0D-48C0-A1F3-595C86920876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA8ABD5-7A0D-48C0-A1F3-595C86920876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/bin/Debug/net7.0/hunting_the_manticore
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/bin/Debug/net7.0/hunting_the_manticore.deps.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/bin/Debug/net7.0/hunting_the_manticore.runtimeconfig.json
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/bin/Debug/net7.0/hunting_the_manticore.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/bin/Debug/net7.0/hunting_the_manticore.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.csproj.AssemblyReference.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.AssemblyInfoInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.AssemblyInfo.cs
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.csproj.CoreCompileInputs.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/refint/hunting_the_manticore.dll
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.pdb
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/hunting_the_manticore.genruntimeconfig.cache
+/Users/cbrown/Desktop/Coding/C#/C# Players Guide Book/Challenges/Level 14/hunting_the_manticore/obj/Debug/net7.0/ref/hunting_the_manticore.dll
