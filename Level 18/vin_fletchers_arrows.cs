@@ -6,7 +6,7 @@
 
     public class Arrow()
     {
-        // FIELDS
+        // ~~~~ FIELDS ~~~~ 
         private int _shaftLength;
         private Arrowhead _arrowheadSelection;
         private Fletching _fletchingSelection;
@@ -15,7 +15,7 @@
         private const int MIN_SHAFT_LENGTH = 60; // 60 cm
         private const int MAX_SHAFT_LENGTH = 100; // 100 cm
         
-        // ARROW MATERIAL PRICING (in gold)
+        // ARROW MATERIAL PRICING (in gold currency)
         private const double STEEL_PRICE = 10.00;
         private const double OBSIDIAN_PRICE = 5.00;
         private const double WOOD_PRICE = 3.00;
@@ -24,9 +24,9 @@
         private const double TURKEYFEATHER_FLETCH_PRICE = 5.00;
         private const double GOOSEFEATHER_FLETCH_PRICE = 3.00;
 
-        private const double SHAFT_PRICE_PER_CM = 0.05; // 0.05 gold per cm for shaft
+        private const double SHAFT_PRICE_PER_CM = 0.05; // 0.05 gold per centimeter (cm)
         
-        // PROPERTIES
+        // ~~~~ PROPERTIES ~~~~ 
         public Arrowhead ArrowheadSelection
         {
             get { return _arrowheadSelection; }
@@ -57,7 +57,7 @@
             get { return _totalCost; }
         }
 
-        // CONSTRUCTOR
+        // ~~~~ CONSTRUCTOR ~~~~
         public Arrow()
         {
             ShaftLength = shaftLength;
@@ -78,7 +78,7 @@
             Console.ReadLine();  // Wait for the user to press Enter before closing.
         }
 
-        // METHOD: Arrow selection menu
+        // ~~~~ METHOD: Arrow selection menu ~~~~ 
         Arrowhead SelectArrowheadMenu()
         {
             Console.WriteLine("Welcome to VIN FLETCHER'S ARROW SHOP");
@@ -95,7 +95,7 @@
             return playerSelection;
         }
         
-        // METHOD: Parsing user input for arrowhead selection
+        // ~~~~ METHOD: Parsing user input for arrowhead selection ~~~~ 
         Arrowhead ParseArrowheadInput()
         {
             while (true)
@@ -124,7 +124,7 @@
             }
         }
         
-        // METHOD: Fletching selection menu
+        // ~~~~ METHOD: Fletching selection menu ~~~~ 
         Fletching SelectFletchingMenu()
         {
             Console.WriteLine("====================================");
@@ -139,7 +139,7 @@
             return playerSelection;
         }
         
-        //METHOD: Parsing user input for fletching
+        // ~~~~ METHOD: Parsing user input for fletching ~~~~ 
         Fletching ParseFletchingInput()
         {
             while (true)
@@ -198,15 +198,17 @@
             }
         }
 
+        // ~~~~ METHOD: Calculate the cost of chosen materials and RETURN the cost as a double ~~~~ 
         double CalculateCost()
         {
-            double arrowheadCost = 0;
-            double fletchingCost = 0;
-
-            switch (_Arrowhead)
+            private double arrowheadCost = 0;
+            private double fletchingCost = 0;
+                
+            // Assign cost based on arrowhead selection
+            switch (_arrowheadSelection)
             {
                 case Arrowhead.Steel:
-                    arrowheadCost = STEELPRICE;
+                    arrowheadCost = STEEL_PRICE;
                     break;
                 case Arrowhead.Obsidian:
                     arrowheadCost = OBSIDIAN_PRICE;
@@ -218,33 +220,29 @@
                     arrowheadCost = 0;
                     break;
             }
-            
-            switch (_Fletching)
+            // ~~~~ Assign cost based on fletching selection ~~~~ 
+            switch (_fletchingSelection)
             {
                 case Fletching.Plastic:
-                    fletchingCost = PlasticFletchPrice;
+                    fletchingCost = PLASTIC_FLETCH_PRICE;
                     break;
                 case Fletching.TurkeyFeather:
-                    fletchingCost = TurkeyFeatherPrice;
+                    fletchingCost = TURKEYFEATHER_FLETCH_PRICE;
                     break;
                 case Fletching.GooseFeather:
-                    fletchingCost = GooseFeatherPrice;
+                    fletchingCost = GOOSEFEATHER_FLETCH_PRICE;
                     break;
                 default:
                     fletchingCost = 0;
                     break;
             }
-            
-            double shaftCost = SHAFT_PRICE_PER_CM * _ShaftLength;
-
+            // declare shaftCost and calculate it here
+            double shaftCost = SHAFT_PRICE_PER_CM * _shaftLength;
+            // return the cumulative cost as a DOUBLE
             return arrowheadCost + fletchingCost + shaftCost;
         }
-        
     }
-    
-        
-
-
+    // ~~~~ ENUMERATORS  ~~~~ 
     public enum Arrowhead { Steel, Wood, Obsidian }
 
     public enum Fletching { Plastic, TurkeyFeather, GooseFeather }
