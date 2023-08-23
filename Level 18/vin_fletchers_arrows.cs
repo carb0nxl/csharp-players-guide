@@ -4,7 +4,7 @@
         Arrow arrow1 = new Arrow();
         Arrow.Summary();
 
-    public class Arrow
+    public class Arrow()
     {
         // FIELDS
         private int _shaftLength;
@@ -25,16 +25,6 @@
         private const double GOOSEFEATHER_FLETCH_PRICE = 3.00;
 
         private const double SHAFT_PRICE_PER_CM = 0.05; // 0.05 gold per cm for shaft
-        
-
-        // CONSTRUCTOR
-        public Arrow(int shaftLength, Arrowhead arrowheadSelection, Fletching fletchingSelection, double totalCost)
-        {
-            ShaftLength = shaftLength;
-            ArrowheadSelection = arrowheadSelection;
-            FletchingSelection = fletchingSelection;
-            TotalCost = totalCost;
-        }
         
         // PROPERTIES
         public Arrowhead ArrowheadSelection
@@ -66,6 +56,15 @@
         {
             get { return _totalCost; }
         }
+
+        // CONSTRUCTOR
+        public Arrow()
+        {
+            ShaftLength = shaftLength;
+            ArrowheadSelection = arrowheadSelection;
+            FletchingSelection = fletchingSelection;
+        }
+        
 
         public void Summary()
         {
