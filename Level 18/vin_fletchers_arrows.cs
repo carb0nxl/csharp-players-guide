@@ -65,7 +65,6 @@
         public double TotalCost
         {
             get { return _totalCost; }
-            set { _totalCost = value; }
         }
 
         public void Summary()
