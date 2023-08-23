@@ -79,7 +79,7 @@
         }
 
         // ~~~~ METHOD: Arrow selection menu ~~~~ 
-        Arrowhead SelectArrowheadMenu()
+        private Arrowhead SelectArrowheadMenu()
         {
             Console.WriteLine("Welcome to VIN FLETCHER'S ARROW SHOP");
             Console.WriteLine("====================================");
@@ -96,7 +96,7 @@
         }
         
         // ~~~~ METHOD: Parsing user input for arrowhead selection ~~~~ 
-        Arrowhead ParseArrowheadInput()
+        private Arrowhead ParseArrowheadInput()
         {
             while (true)
             {
@@ -125,7 +125,7 @@
         }
         
         // ~~~~ METHOD: Fletching selection menu ~~~~ 
-        Fletching SelectFletchingMenu()
+        private Fletching SelectFletchingMenu()
         {
             Console.WriteLine("====================================");
             Console.WriteLine("FLETCHING: Plastic | Turkey Feathers | Goose Feathers");
@@ -140,7 +140,7 @@
         }
         
         // ~~~~ METHOD: Parsing user input for fletching ~~~~ 
-        Fletching ParseFletchingInput()
+        private Fletching ParseFletchingInput()
         {
             while (true)
             {
@@ -169,7 +169,7 @@
         }
         
         
-        int GetShaftLength()
+        private int GetShaftLength()
         {
             Console.WriteLine("====================================");
             Console.WriteLine("SHAFT LENGTH");
@@ -180,7 +180,7 @@
             return ShaftLengthParse();
         }
 
-        int ShaftLengthParse()
+        private int ShaftLengthParse()
         {
             while (true)
             {
@@ -199,7 +199,7 @@
         }
 
         // ~~~~ METHOD: Calculate the cost of chosen materials and RETURN the cost as a double ~~~~ 
-        double CalculateCost()
+        private double CalculateCost()
         {
             private double arrowheadCost = 0;
             private double fletchingCost = 0;
