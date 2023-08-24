@@ -2,7 +2,7 @@
         Console.WriteLine("Let's build an arrow!\n");
     
         Arrow arrow1 = new Arrow();
-        Arrow.Summary();
+
 
     public class Arrow()
     {
@@ -60,22 +60,29 @@
         // ~~~~ CONSTRUCTOR ~~~~
         public Arrow()
         {
-            ShaftLength = shaftLength;
-            ArrowheadSelection = arrowheadSelection;
-            FletchingSelection = fletchingSelection;
+            ArrowheadSelection = SelectArrowheadMenu();
+            FletchingSelection = SelectFletchingMenu();
+            ShaftLength = GetShaftLength();
+            _totalCost = CalculateCost();
+            Summary();
         }
-        
 
+        
+        
+        
+        // ~~~~ IT'S ALL METHODS DOWN HERE, BUDDY ~~~~
         public void Summary()
         {
             // Provide a summary of the user's arrow:
             Console.WriteLine("\nYour Custom Arrow:");
-            Console.WriteLine($"Arrowhead: {_Arrowhead}");
-            Console.WriteLine($"Fletching: {_Fletching}");
-            Console.WriteLine($"Shaft Length: {_ShaftLength} cm");
-            Console.WriteLine($"Total cost for each arrow: {_TotalCost.ToString("F2")} gold.");
+            Console.WriteLine($"Arrowhead: {_arrowheadSelection}");
+            Console.WriteLine($"Fletching: {_fletchingSelection}");
+            Console.WriteLine($"Shaft Length: {_shaftLength} cm");
+            Console.WriteLine($"Total cost for each arrow: {_totalCost.ToString("F2")} gold.");
             Console.WriteLine("\nThanks for using VIN FLETCHER'S ARROW SHOP!");
+            Console.WriteLine("\nPress any key to exit the program.");
             Console.ReadLine();  // Wait for the user to press Enter before closing.
+
         }
 
         // ~~~~ METHOD: Arrow selection menu ~~~~ 
@@ -168,7 +175,7 @@
             }
         }
         
-        
+        // ~~~~ METHOD: Display shaft length menu and call method to prompt input ~~~~ 
         private int GetShaftLength()
         {
             Console.WriteLine("====================================");
@@ -179,7 +186,7 @@
 
             return ShaftLengthParse();
         }
-
+// ~~~~ METHOD: Parsing user input for shaft length within parameters ~~~~ 
         private int ShaftLengthParse()
         {
             while (true)
@@ -201,8 +208,8 @@
         // ~~~~ METHOD: Calculate the cost of chosen materials and RETURN the cost as a double ~~~~ 
         private double CalculateCost()
         {
-            private double arrowheadCost = 0;
-            private double fletchingCost = 0;
+            double arrowheadCost = 0;
+            double fletchingCost = 0;
                 
             // Assign cost based on arrowhead selection
             switch (_arrowheadSelection)
