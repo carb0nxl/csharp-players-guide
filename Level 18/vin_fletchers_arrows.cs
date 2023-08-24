@@ -151,17 +151,17 @@
             {
                 string playerInput = Console.ReadLine();
 
-                if (playerInput == "A" || playerInput == "a")
+                if (string.Equals(playerInput, "A", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected the plastic fletching.");
                     return Fletching.Plastic;
                 }
-                else if (playerInput == "B" || playerInput == "b")
+                else if (string.Equals(playerInput, "B", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected the turkey feather fletching.");
                     return Fletching.TurkeyFeather;
                 }
-                else if (playerInput == "C" || playerInput == "c")
+                else if (string.Equals(playerInput, "C", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected the goose feather fletching.");
                     return Fletching.GooseFeather;
