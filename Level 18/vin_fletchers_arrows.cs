@@ -89,9 +89,9 @@
             Console.WriteLine("Welcome to VIN FLETCHER'S ARROW SHOP");
             Console.WriteLine("====================================");
             Console.WriteLine("ARROWHEADS: Steel | Wood | Obsidian");
-            Console.WriteLine($"A. Steel ----- {STEEL_PRICE} gold");
-            Console.WriteLine($"B. Obsidian -- {OBSIDIAN_PRICE} gold");
-            Console.WriteLine($"C. Wood ------ {WOOD_PRICE} gold");
+            Console.WriteLine($"A. Steel ------- {STEEL_PRICE} gold");
+            Console.WriteLine($"B. Obsidian ---- {OBSIDIAN_PRICE} gold");
+            Console.WriteLine($"C. Wood -------- {WOOD_PRICE} gold");
 
             Console.Write("\nPlease input your choice of arrowhead using the LETTER only: ");
 
@@ -190,18 +190,18 @@
             while (true)
             {
                 Console.Write("Enter desired shaft length: ");
-                int shaftLengthNumber = int.Parse(Console.ReadLine());
-
-                if (shaftLengthNumber >= 60 && shaftLengthNumber <= 100)
+                if (int.TryParse(Console.ReadLine(), out int shaftLengthNumber) &&
+                    shaftLengthNumber >= MIN_SHAFT_LENGTH && shaftLengthNumber <= MAX_SHAFT_LENGTH)
                 {
                     return shaftLengthNumber;
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input!\n");
+                    Console.WriteLine("Invalid input! Please enter a whole number between 60 and 100.\n");
                 }
             }
         }
+
 
         // ~~~~ METHOD: Calculate the cost of chosen materials and RETURN the cost as a double ~~~~ 
         private double CalculateCost()
