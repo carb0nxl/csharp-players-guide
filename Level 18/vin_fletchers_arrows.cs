@@ -10,7 +10,6 @@
         private int _shaftLength;
         private Arrowhead _arrowheadSelection;
         private Fletching _fletchingSelection;
-        private double _totalCost;
         
         private const int MIN_SHAFT_LENGTH = 60; // 60 cm
         private const int MAX_SHAFT_LENGTH = 100; // 100 cm
@@ -108,17 +107,17 @@
             {
                 string playerInput = Console.ReadLine();
 
-                if (playerInput == "A" || playerInput == "a")
+                if (string.Equals(playerInput, "A", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected steel arrowheads.");
                     return Arrowhead.Steel;
                 }
-                else if (playerInput == "B" || playerInput == "b")
+                else if (string.Equals(playerInput, "B", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected obsidian arrowheads.");
                     return Arrowhead.Obsidian;
                 }
-                else if (playerInput == "C" || playerInput == "c")
+                else if (string.Equals(playerInput, "C", StringComparison.OrdinalIgnoreCase))
                 {
                     Console.WriteLine("You've selected wood arrowheads.");
                     return Arrowhead.Wood;
