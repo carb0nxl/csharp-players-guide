@@ -6,15 +6,15 @@
 
     public class Arrow()
     {
-        // ~~~~ FIELDS ~~~~ 
+        // Private fields for the arrow's components
         private int _shaftLength;
         private Arrowhead _arrowheadSelection;
         private Fletching _fletchingSelection;
         
-        private const int MIN_SHAFT_LENGTH = 60; // 60 cm
-        private const int MAX_SHAFT_LENGTH = 100; // 100 cm
+        private const int MIN_SHAFT_LENGTH = 60;    // Minimum shaft length in cm
+        private const int MAX_SHAFT_LENGTH = 100;   // Maximum shaft length in cm
         
-        // ARROW MATERIAL PRICING (in gold currency)
+        // Constants for arrow's specifications and pricing
         private const double STEEL_PRICE = 10.00;
         private const double OBSIDIAN_PRICE = 5.00;
         private const double WOOD_PRICE = 3.00;
@@ -25,17 +25,11 @@
 
         private const double SHAFT_PRICE_PER_CM = 0.05; // 0.05 gold per centimeter (cm)
         
-        // ~~~~ PROPERTIES ~~~~ 
-        public Arrowhead ArrowheadSelection
-        {
-            get { return _arrowheadSelection; }
-            set { _arrowheadSelection = value; }
-        }
-        public Fletching FletchingSelection
-        {
-            get { return _fletchingSelection; }
-            set { _fletchingSelection = value; }
-        }
+        // Properties for the arrow's components
+        public Arrowhead ArrowheadSelection { get { return _arrowheadSelection; } set { _arrowheadSelection = value; } }
+        public Fletching FletchingSelection { get { return _fletchingSelection; } set { _fletchingSelection = value; } }
+
+
         public int ShaftLength
         {
             get { return _shaftLength; }
@@ -56,7 +50,7 @@
             get { return CalculateCost(); }
         }
 
-        // ~~~~ CONSTRUCTOR ~~~~
+        // Constructor initializes the arrow by prompting the user's selections
         public Arrow()
         {
             ArrowheadSelection = SelectArrowheadMenu();
@@ -66,11 +60,7 @@
         }
 
         
-        
-        
-        // ~~~~ IT'S ALL METHODS DOWN HERE, BUDDY ~~~~
-
-            // Provide a summary of the user's arrow:
+        // Method to display a summary of the user's custom arrow
         public void Summary()
         {
             Console.WriteLine("\nYour Custom Arrow:");
@@ -83,7 +73,7 @@
             Console.ReadLine();  // Wait for the user to press Enter before closing.
         }
 
-        // ~~~~ METHOD: Arrow selection menu ~~~~ 
+        // Methods related to user's selection for each arrow component
         private Arrowhead SelectArrowheadMenu()
         {
             Console.WriteLine("Welcome to VIN FLETCHER'S ARROW SHOP");
@@ -100,9 +90,10 @@
             return playerSelection;
         }
         
-        // ~~~~ METHOD: Parsing user input for arrowhead selection ~~~~ 
+        // Method to parse the user's input for shaft length, ensuring it's within bounds
         private Arrowhead ParseArrowheadInput()
         {
+            // Loop until a valid shaft length is provided
             while (true)
             {
                 string playerInput = Console.ReadLine();
@@ -173,7 +164,6 @@
             }
         }
         
-        // ~~~~ METHOD: Display shaft length menu and call method to prompt input ~~~~ 
         private int GetShaftLength()
         {
             Console.WriteLine("====================================");
@@ -203,7 +193,7 @@
         }
 
 
-        // ~~~~ METHOD: Calculate the cost of chosen materials and RETURN the cost as a double ~~~~ 
+        // Method to calculate the total cost of the arrow based on selected components
         private double CalculateCost()
         {
             double arrowheadCost = 0;
@@ -249,7 +239,7 @@
             return arrowheadCost + fletchingCost + shaftCost;
         }
     }
-    // ~~~~ ENUMERATORS  ~~~~ 
+    // Enumerators for the different types of arrow components
     public enum Arrowhead { Steel, Wood, Obsidian }
 
     public enum Fletching { Plastic, TurkeyFeather, GooseFeather }
