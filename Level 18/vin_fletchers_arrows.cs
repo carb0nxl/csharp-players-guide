@@ -54,7 +54,7 @@
         }
         public double TotalCost
         {
-            get { return _totalCost; }
+            get { return CalculateCost(); }
         }
 
         // ~~~~ CONSTRUCTOR ~~~~
@@ -63,7 +63,6 @@
             ArrowheadSelection = SelectArrowheadMenu();
             FletchingSelection = SelectFletchingMenu();
             ShaftLength = GetShaftLength();
-            _totalCost = CalculateCost();
             Summary();
         }
 
@@ -71,18 +70,18 @@
         
         
         // ~~~~ IT'S ALL METHODS DOWN HERE, BUDDY ~~~~
+
+            // Provide a summary of the user's arrow:
         public void Summary()
         {
-            // Provide a summary of the user's arrow:
             Console.WriteLine("\nYour Custom Arrow:");
-            Console.WriteLine($"Arrowhead: {_arrowheadSelection}");
-            Console.WriteLine($"Fletching: {_fletchingSelection}");
-            Console.WriteLine($"Shaft Length: {_shaftLength} cm");
-            Console.WriteLine($"Total cost for each arrow: {_totalCost.ToString("F2")} gold.");
+            Console.WriteLine($"Arrowhead: {ArrowheadSelection}");
+            Console.WriteLine($"Fletching: {FletchingSelection}");
+            Console.WriteLine($"Shaft Length: {ShaftLength} cm");
+            Console.WriteLine($"Total cost for each arrow: {TotalCost.ToString("F2")} gold.");
             Console.WriteLine("\nThanks for using VIN FLETCHER'S ARROW SHOP!");
             Console.WriteLine("\nPress any key to exit the program.");
             Console.ReadLine();  // Wait for the user to press Enter before closing.
-
         }
 
         // ~~~~ METHOD: Arrow selection menu ~~~~ 
@@ -245,6 +244,8 @@
             }
             // declare shaftCost and calculate it here
             double shaftCost = SHAFT_PRICE_PER_CM * _shaftLength;
+            
+            
             // return the cumulative cost as a DOUBLE
             return arrowheadCost + fletchingCost + shaftCost;
         }
